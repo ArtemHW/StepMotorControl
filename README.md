@@ -6,7 +6,7 @@ This is my initial project on the stm32 microcontroller, utilizing the BluePeel 
 ## Circuit Diagram 
 
 ## Block scheme 
-![App Screenshot](https://github.com/ArtemHW/images/blob/main/BlueMotCon.PNG)
+![App Screenshot](https://github.com/ArtemHW/images/blob/main/BlueMotCon.png)
 ## Thermistor wiring diagram and calibration
 
 ## Mobile application 
