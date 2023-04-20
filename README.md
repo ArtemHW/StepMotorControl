@@ -11,3 +11,4 @@ This is my initial project on the stm32 microcontroller, utilizing the BluePeel 
 ![App Screenshot](https://github.com/ArtemHW/images/blob/main/Thermistor.png)
 ![App Screenshot](https://github.com/ArtemHW/images/blob/main/Calibration_thermistor.png)
 ## Mobile application 
+![App Screenshot](https://github.com/ArtemHW/images/blob/main/mobile_app_bmc.jpg)
