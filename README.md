@@ -12,3 +12,11 @@ This is my initial project on the stm32 microcontroller, utilizing the BluePeel 
 ![App Screenshot](https://github.com/ArtemHW/images/blob/main/Calibration_thermistor.png)
 ## Mobile application 
 ![App Screenshot](https://github.com/ArtemHW/images/blob/main/mobile_app_bmc.jpg)
+## Installation and deployment
+1. You need to download this repository.
+2. If you don't have GNU Make, you need to install it previously.
+3. Move to the project directory and write 
+	```bash
+	make all 
+	```
+4. Upon completion of the third step, a new build folder will be generated within the project directory. This build folder contains the binary file necessary for flashing to your microcontroller.
